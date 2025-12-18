@@ -10,7 +10,7 @@ Shortened URLs, misleading anchor text, and unfamiliar domains make it difficult
 TrueLinks addresses this by:
 * Revealing the actual destination URL
 * Highlighting common risk indicators
-* presenting results in a clear, understandable UI
+* Presenting results in a clear, understandable UI
 No clicks required, just hover.
 
 ## Key Features
@@ -27,12 +27,12 @@ No clicks required, just hover.
 * All analysis is designed to be fast, readable, and non-intrusive.
 
 ## How it works (high-level)
-TrueLinks evaluates link using **multiple independent signals**, such as:
+TrueLinks evaluates links using **multiple independent signals**, such as:
 * protocol security (e.g. HTTP vs HTTPS)
 * URL structure and obfuscation
 * known shortening patterns
 * domain characteristics
-Each signal contributes to an overall risk score, which is shown alongside a human-readable explanation.
+Each signal contributes to an overall risk score, which is shown alongside a human-readable explanation. The scoring system is heuristic-based and intentionally conservative.
 
 ## What TrueLinks does *not* do
 * It does **not** block links
