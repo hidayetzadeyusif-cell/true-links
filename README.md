@@ -72,3 +72,6 @@ Please open an issue or reach out with details.
 
 ## License
 This project is licensed under the **MIT License**.
+
+## Developer
+Originally developed by Yusif Hidayetzade.
