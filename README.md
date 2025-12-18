@@ -44,7 +44,7 @@ TrueLinks is an **informational aid**, not an authority.
 * TrueLinks does **not collect or sell user data**
 * Link analysis is performed locally whenever possible
 * The project is **open source** to allow inspiration and feedback
-Transparency is a core design principle.
+Transparency is a core design principle. See our [Privacy Policy](PRIVACY.md).
 
 ## Installation (Development / Testing)
 1. Clone or download this repository
