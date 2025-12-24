@@ -46,13 +46,21 @@ TrueLinks is an **informational aid**, not an authority.
 * The project is **open source** to allow inspiration and feedback
 Transparency is a core design principle. See our [Privacy Policy](PRIVACY.md).
 
-## Installation (Development / Testing)
+## Installation
+### Chrome Web Store
+Recommended for most users:
+[Install TrueLinks from the Chrome Web Store](https://chromewebstore.google.com/detail/truelinks/ojhdeefbjocgfmmiefhjaicnonjggepl)
+
+This is the easiest way to receive updates automatically.
+
+### Manual Installation (Development / Testing)
 1. Clone or download this repository
 2. Open Chrome and navigate `chrome://extensions`
 3. Enable **Developer Mode**
 4. Click **Load unpacked**
 5. Select the project directory
-(Chrome Web Store release planned after extended testing.)
+
+Manual installation is intended for development, inspection, or contributing.
 
 ## Limitations & Accuracy
 TrueLinks reports **risk indicators**, not certainties.
