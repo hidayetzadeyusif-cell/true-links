@@ -62,6 +62,19 @@ This is the easiest way to receive updates automatically.
 
 Manual installation is intended for development, inspection, or contributing.
 
+## How Risk Levels Are Determined
+TrueLinks uses a combination of transparent heuristics to evaluate links.
+These may include, but are not limited to:
+
+- URL structure and encoding patterns
+- Use of secure or insecure protocols
+- Domain characteristics and formatting
+- Known indicators commonly associated with misleading links
+- Contextual attributes visible at hover-time
+
+All analysis is informational and designed to support user awareness.
+TrueLinks does not guarantee link safety and should not be treated as a sole security measure.
+
 ## Limitations & Accuracy
 TrueLinks reports **risk indicators**, not certainties.
 Some legitimate links may appear risky due to:
